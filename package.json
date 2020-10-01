@@ -1,0 +1,27 @@
+{
+  "name": "kashware",
+  "version": "1.0.0",
+  "description": "\"kashware project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajkumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fast-json-patch": "^3.0.0-1",
+    "image-downloader": "^4.0.1",
+    "json-patch": "^0.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.2",
+    "resize-img": "^2.0.0",
+    "sharp": "^0.26.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0"
+
+  }
+}
