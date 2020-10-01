@@ -28,7 +28,7 @@ This is **Protected Endpoint** used to generate the 50x50 size image which will 
 * Response (url of resize image: "....")
 * Store in => images/image....png
 #### Testing:
-##### used module:
+##### module used:
 * **mocha**
 *  **Chai**
 
